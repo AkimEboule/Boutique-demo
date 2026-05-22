@@ -11,14 +11,14 @@
     "name": "Ordinateur portable HP",
     "category": "Electronique",
     "price": 350000,
-    "image": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?w=400"
+    "image": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?w=400"
   },
   {
     "id": 3,
     "name": "Ecouteurs sans fil",
     "category": "Electronique",
     "price": 15000,
-    "image": "https://images.unsplash.com/photo-1585386959984-a41552231693?w=400"
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=400"
   },
   {
     "id": 4,
