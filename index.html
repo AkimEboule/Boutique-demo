@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Boutique Demo</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <header>
+    <div class="logo">Boutique Demo</div>
+
+    <nav>
+      <a href="#hero">Accueil</a>
+      <a href="#productsSection">Catalogue</a>
+      <a href="#cartSection">
+        Panier (<span id="cartCount">0</span>)
+      </a>
+      <a href="connexion.html">Connexion</a>
+    </nav>
+  </header>
+
+  <main>
+
+    <section id="hero">
+      <h1>Bienvenue sur Boutique Demo</h1>
+      <p>Les meilleurs produits aux meilleurs prix.</p>
+    </section>
+
+    <section id="filters">
+
+      <input
+        type="text"
+        id="searchInput"
+        placeholder="Rechercher un produit"
+      >
+
+      <select id="categoryFilter">
+        <option value="all">Toutes les catégories</option>
+      </select>
+
+      <select id="sortPrice">
+        <option value="default">Trier les prix</option>
+        <option value="asc">Prix croissant</option>
+        <option value="desc">Prix décroissant</option>
+      </select>
+
+    </section>
+
+    <section id="productsSection">
+      <h2>Catalogue</h2>
+
+      <div id="productsContainer"></div>
+    </section>
+
+    <section id="cartSection">
+
+      <h2>Panier</h2>
+
+      <table id="cartTable">
+
+        <thead>
+          <tr>
+            <th>Article</th>
+            <th>Prix</th>
+            <th>Quantité</th>
+            <th>Sous-total</th>
+            <th>Actions</th>
+          </tr>
+        </thead>
+
+        <tbody></tbody>
+
+      </table>
+
+      <h3>Total : <span id="cartTotal">0 XAF</span></h3>
+
+      <button id="clearCartBtn">Vider le panier</button>
+
+    </section>
+
+  </main>
+
+  <footer>
+    <p>© 2026 Boutique Demo - Tous droits réservés.</p>
+  </footer>
+
+  <script src="shop.js"></script>
+</body>
+</html>

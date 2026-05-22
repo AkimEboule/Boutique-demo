@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "fullName": "Brice Tchoumi",
+    "email": "brice@test.com",
+    "password": "1234"
+  },
+  {
+    "id": 2,
+    "fullName": "Vanessa Ndzié",
+    "email": "vanessa@test.com",
+    "password": "abcd"
+  },
+  {
+    "id": 3,
+    "fullName": "Kevin Ngassa",
+    "email": "kevin@test.com",
+    "password": "pass123"
+  },
+  {
+    "id": 4,
+    "fullName": "Sarah Ewane",
+    "email": "sarah@test.com",
+    "password": "sarah2026"
+  },
+  {
+    "id": 5,
+    "fullName": "Junior Ndzi",
+    "email": "junior@test.com",
+    "password": "admin"
+  }
+]

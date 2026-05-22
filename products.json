@@ -1,0 +1,201 @@
+[
+  {
+    "id": 1,
+    "name": "Samsung Galaxy A15",
+    "category": "Electronique",
+    "price": 120000,
+    "image": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?w=400"
+  },
+
+  {
+    "id": 2,
+    "name": "HP EliteBook",
+    "category": "Electronique",
+    "price": 350000,
+    "image": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?w=400"
+  },
+
+  {
+    "id": 3,
+    "name": "Ecouteurs Bluetooth",
+    "category": "Electronique",
+    "price": 15000,
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=400"
+  },
+
+  {
+    "id": 4,
+    "name": "Montre Connectée",
+    "category": "Electronique",
+    "price": 45000,
+    "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=400"
+  },
+
+  {
+    "id": 5,
+    "name": "Télévision Smart",
+    "category": "Electronique",
+    "price": 280000,
+    "image": "https://images.unsplash.com/photo-1593784991095-a205069470b6?w=400"
+  },
+
+  {
+    "id": 6,
+    "name": "Chaussures Nike",
+    "category": "Mode",
+    "price": 40000,
+    "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=400"
+  },
+
+  {
+    "id": 7,
+    "name": "Sac à Main",
+    "category": "Mode",
+    "price": 25000,
+    "image": "https://images.unsplash.com/photo-1584917865442-de89df76afd3?w=400"
+  },
+
+  {
+    "id": 8,
+    "name": "Chemise Homme",
+    "category": "Mode",
+    "price": 12000,
+    "image": "https://images.unsplash.com/photo-1602810318383-e386cc2a3ccf?w=400"
+  },
+
+  {
+    "id": 9,
+    "name": "Robe Femme",
+    "category": "Mode",
+    "price": 18000,
+    "image": "https://images.unsplash.com/photo-1496747611176-843222e1e57c?w=400"
+  },
+
+  {
+    "id": 10,
+    "name": "Casquette",
+    "category": "Mode",
+    "price": 7000,
+    "image": "https://images.unsplash.com/photo-1521369909029-2afed882baee?w=400"
+  },
+
+  {
+    "id": 11,
+    "name": "Canapé Moderne",
+    "category": "Maison",
+    "price": 220000,
+    "image": "https://images.unsplash.com/photo-1505693416388-ac5ce068fe85?w=400"
+  },
+
+  {
+    "id": 12,
+    "name": "Table à Manger",
+    "category": "Maison",
+    "price": 95000,
+    "image": "https://images.unsplash.com/photo-1505693416388-ac5ce068fe85?w=400"
+  },
+
+  {
+    "id": 13,
+    "name": "Chaise Bois",
+    "category": "Maison",
+    "price": 18000,
+    "image": "https://images.unsplash.com/photo-1519947486511-46149fa0a254?w=400"
+  },
+
+  {
+    "id": 14,
+    "name": "Lampe LED",
+    "category": "Maison",
+    "price": 10000,
+    "image": "https://images.unsplash.com/photo-1519710164239-da123dc03ef4?w=400"
+  },
+
+  {
+    "id": 15,
+    "name": "Rideaux Salon",
+    "category": "Maison",
+    "price": 15000,
+    "image": "https://images.unsplash.com/photo-1484154218962-a197022b5858?w=400"
+  },
+
+  {
+    "id": 16,
+    "name": "Ballon Football",
+    "category": "Sport",
+    "price": 12000,
+    "image": "https://images.unsplash.com/photo-1517466787929-bc90951d0974?w=400"
+  },
+
+  {
+    "id": 17,
+    "name": "Raquette Tennis",
+    "category": "Sport",
+    "price": 25000,
+    "image": "https://images.unsplash.com/photo-1622279457486-62dcc4a431d6?w=400"
+  },
+
+  {
+    "id": 18,
+    "name": "Tapis Yoga",
+    "category": "Sport",
+    "price": 9000,
+    "image": "https://images.unsplash.com/photo-1518611012118-696072aa579a?w=400"
+  },
+
+  {
+    "id": 19,
+    "name": "Gants Boxe",
+    "category": "Sport",
+    "price": 17000,
+    "image": "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?w=400"
+  },
+
+  {
+    "id": 20,
+    "name": "Vélo Mountain Bike",
+    "category": "Sport",
+    "price": 160000,
+    "image": "https://images.unsplash.com/photo-1508979828023-7f4c7d5f46d6?w=400"
+  },
+
+  {
+    "id": 21,
+    "name": "Parfum Homme",
+    "category": "Beauté",
+    "price": 30000,
+    "image": "https://images.unsplash.com/photo-1541643600914-78b084683601?w=400"
+  },
+
+  {
+    "id": 22,
+    "name": "Crème Visage",
+    "category": "Beauté",
+    "price": 8000,
+    "image": "https://images.unsplash.com/photo-1522335789203-aabd1fc54bc9?w=400"
+  },
+
+  {
+    "id": 23,
+    "name": "Shampooing",
+    "category": "Beauté",
+    "price": 5000,
+    "image": "https://images.unsplash.com/photo-1526947425960-945c6e72858f?w=400"
+  },
+
+  {
+    "id": 24,
+    "name": "Rouge à Lèvres",
+    "category": "Beauté",
+    "price": 6000,
+    "image": "https://images.unsplash.com/photo-1586495777744-4413f21062fa?w=400"
+  },
+
+  {
+    "id": 25,
+    "name": "Lotion Corps",
+    "category": "Beauté",
+    "price": 7000,
+    "image": "https://images.unsplash.com/photo-1556228578-8c89e6adf883?w=400"
+  }
+]
